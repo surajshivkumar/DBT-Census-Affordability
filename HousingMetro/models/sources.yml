@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: housing_source
+    database: cdb9 # Replace with your actual database name
+    schema: DW117 # Replace with your actual schema
+    tables:
+      - name: housing_data
+  - name: transport_source
+    database: cdb9 # Replace with your actual database name
+    schema: DW117 # Replace with your actual schema
+    tables:
+      - name: transport_data
+  - name: houseprice_source
+    database: cdb9 # Replace with your actual database name
+    schema: DW117 # Replace with your actual schema
+    tables:
+      - name: median_house_price

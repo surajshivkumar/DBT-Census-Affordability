@@ -1,0 +1,96 @@
+geoID,Metro,Mean travel time to work (minutes),Median earnings (dollars),year
+1,Atlanta-Sandy Springs-Alpharetta,30.9,50193.0,2022
+1,Atlanta-Sandy Springs-Alpharetta,31.6,50722.0,2023
+1,Atlanta-Sandy Springs-Alpharetta,29.6,45903.0,2021
+1,Atlanta-Sandy Springs-Alpharetta,32.5,41482.0,2019
+1,Atlanta-Sandy Springs-Alpharetta,32.1,41916.0,2020
+2,Austin-Round Rock-Georgetown,26.4,55940.0,2022
+2,Austin-Round Rock-Georgetown,27.2,58457.0,2023
+2,Austin-Round Rock-Georgetown,26.1,50779.0,2021
+2,Austin-Round Rock-Georgetown,27.7,44106.0,2019
+2,Austin-Round Rock-Georgetown,27.4,45107.0,2020
+3,Baltimore-Columbia-Towson,29.0,57090.0,2022
+3,Baltimore-Columbia-Towson,29.7,59288.0,2023
+3,Baltimore-Columbia-Towson,27.7,54279.0,2021
+3,Baltimore-Columbia-Towson,31.7,50635.0,2019
+3,Baltimore-Columbia-Towson,31.3,51134.0,2020
+4,Charlotte-Concord-Gastonia,26.3,47766.0,2022
+4,Charlotte-Concord-Gastonia,27.3,50502.0,2023
+4,Charlotte-Concord-Gastonia,25.7,44793.0,2021
+4,Charlotte-Concord-Gastonia,27.7,40484.0,2019
+4,Charlotte-Concord-Gastonia,27.1,40490.0,2020
+5,Dallas-Fort Worth-Arlington,27.7,49579.0,2022
+5,Dallas-Fort Worth-Arlington,28.4,51142.0,2023
+5,Dallas-Fort Worth-Arlington,27.3,45820.0,2021
+5,Dallas-Fort Worth-Arlington,28.6,41389.0,2019
+5,Dallas-Fort Worth-Arlington,28.4,42052.0,2020
+6,Denver-Aurora-Lakewood,26.8,57924.0,2022
+6,Denver-Aurora-Lakewood,27.3,60576.0,2023
+6,Denver-Aurora-Lakewood,26.7,52376.0,2021
+6,Denver-Aurora-Lakewood,28.8,48095.0,2019
+6,Denver-Aurora-Lakewood,27.8,46791.0,2020
+7,Houston-The Woodlands-Sugar Land,30.0,46487.0,2022
+7,Houston-The Woodlands-Sugar Land,30.5,48226.0,2023
+7,Houston-The Woodlands-Sugar Land,28.9,42510.0,2021
+7,Houston-The Woodlands-Sugar Land,30.7,40785.0,2019
+7,Houston-The Woodlands-Sugar Land,30.0,41304.0,2020
+8,Jacksonville,25.8,46755.0,2022
+8,Jacksonville,26.3,47868.0,2023
+8,Jacksonville,25.2,41340.0,2021
+8,Jacksonville,27.3,37411.0,2019
+8,Jacksonville,26.9,38327.0,2020
+9,Miami-Fort Lauderdale-Pompano Beach,29.5,41622.0,2022
+9,Miami-Fort Lauderdale-Pompano Beach,29.5,43486.0,2023
+9,Miami-Fort Lauderdale-Pompano Beach,28.3,37978.0,2021
+9,Miami-Fort Lauderdale-Pompano Beach,30.3,33880.0,2019
+9,Miami-Fort Lauderdale-Pompano Beach,29.9,34469.0,2020
+10,Minneapolis-St. Paul-Bloomington,24.0,54689.0,2022
+10,Minneapolis-St. Paul-Bloomington,23.8,58240.0,2023
+10,Minneapolis-St. Paul-Bloomington,23.3,51612.0,2021
+10,Minneapolis-St. Paul-Bloomington,26.1,47640.0,2019
+10,Minneapolis-St. Paul-Bloomington,25.6,47724.0,2020
+11,Nashville-Davidson--Murfreesboro--Franklin,27.1,48495.0,2022
+11,Nashville-Davidson--Murfreesboro--Franklin,28.3,51466.0,2023
+11,Nashville-Davidson--Murfreesboro--Franklin,26.2,43299.0,2021
+11,Nashville-Davidson--Murfreesboro--Franklin,28.5,40514.0,2019
+11,Nashville-Davidson--Murfreesboro--Franklin,28.1,40577.0,2020
+12,Orlando-Kissimmee-Sanford,28.4,41771.0,2022
+12,Orlando-Kissimmee-Sanford,29.3,44696.0,2023
+12,Orlando-Kissimmee-Sanford,28.3,37295.0,2021
+12,Orlando-Kissimmee-Sanford,30.2,32709.0,2019
+12,Orlando-Kissimmee-Sanford,29.5,33923.0,2020
+13,Phoenix-Mesa-Chandler,25.8,48172.0,2022
+13,Phoenix-Mesa-Chandler,26.7,50423.0,2023
+13,Phoenix-Mesa-Chandler,25.6,44231.0,2021
+13,Phoenix-Mesa-Chandler,27.9,39985.0,2019
+13,Phoenix-Mesa-Chandler,26.9,39890.0,2020
+14,Portland-Vancouver-Hillsboro,24.8,52765.0,2022
+14,Portland-Vancouver-Hillsboro,25.2,56270.0,2023
+14,Portland-Vancouver-Hillsboro,24.6,50600.0,2021
+14,Portland-Vancouver-Hillsboro,26.8,44206.0,2019
+14,Portland-Vancouver-Hillsboro,26.9,44352.0,2020
+15,Raleigh-Cary,26.6,53552.0,2022
+15,Raleigh-Cary,26.6,56950.0,2023
+15,Raleigh-Cary,26.5,50890.0,2021
+15,Raleigh-Cary,27.4,45282.0,2019
+15,Raleigh-Cary,26.8,45136.0,2020
+16,St. Louis,24.8,48650.0,2022
+16,St. Louis,24.9,50540.0,2023
+16,St. Louis,24.4,45267.0,2021
+16,St. Louis,26.0,41600.0,2019
+16,St. Louis,25.8,41658.0,2020
+17,San Antonio-New Braunfels,27.0,41061.0,2022
+17,San Antonio-New Braunfels,27.4,42896.0,2023
+17,San Antonio-New Braunfels,25.8,39392.0,2021
+17,San Antonio-New Braunfels,27.4,34885.0,2019
+17,San Antonio-New Braunfels,26.6,35019.0,2020
+18,Seattle-Tacoma-Bellevue,28.5,64412.0,2022
+18,Seattle-Tacoma-Bellevue,29.2,67222.0,2023
+18,Seattle-Tacoma-Bellevue,28.5,60992.0,2021
+18,Seattle-Tacoma-Bellevue,31.6,52145.0,2019
+18,Seattle-Tacoma-Bellevue,31.0,52586.0,2020
+19,Tampa-St. Petersburg-Clearwater,28.5,44126.0,2022
+19,Tampa-St. Petersburg-Clearwater,29.4,46426.0,2023
+19,Tampa-St. Petersburg-Clearwater,26.7,41516.0,2021
+19,Tampa-St. Petersburg-Clearwater,28.3,36725.0,2019
+19,Tampa-St. Petersburg-Clearwater,27.8,37231.0,2020

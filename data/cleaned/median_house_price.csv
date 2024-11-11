@@ -1,0 +1,58 @@
+geoID,Metro,year,Median_Home_Price
+1,Atlanta-Sandy Springs-Alpharetta,2021,317.2
+1,Atlanta-Sandy Springs-Alpharetta,2022,365.1
+1,Atlanta-Sandy Springs-Alpharetta,2023,370.0
+2,Austin-Round Rock-Georgetown,2021,488.6
+2,Austin-Round Rock-Georgetown,2022,555.4
+2,Austin-Round Rock-Georgetown,2023,481.2
+3,Baltimore-Columbia-Towson,2021,358.1
+3,Baltimore-Columbia-Towson,2022,378.2
+3,Baltimore-Columbia-Towson,2023,388.6
+4,Charlotte-Concord-Gastonia,2021,354.1
+4,Charlotte-Concord-Gastonia,2022,397.7
+4,Charlotte-Concord-Gastonia,2023,398.0
+5,Dallas-Fort Worth-Arlington,2021,336.7
+5,Dallas-Fort Worth-Arlington,2022,385.5
+5,Dallas-Fort Worth-Arlington,2023,381.9
+6,Denver-Aurora-Lakewood,2021,661.0
+6,Denver-Aurora-Lakewood,2022,673.0
+6,Denver-Aurora-Lakewood,2023,652.3
+7,Houston-The Woodlands-Sugar Land,2021,340.3
+7,Houston-The Woodlands-Sugar Land,2022,345.6
+7,Houston-The Woodlands-Sugar Land,2023,336.6
+8,Jacksonville,2021,325.0
+8,Jacksonville,2022,386.5
+8,Jacksonville,2023,389.4
+9,Miami-Fort Lauderdale-Pompano Beach,2021,593.0
+9,Miami-Fort Lauderdale-Pompano Beach,2022,602.5
+9,Miami-Fort Lauderdale-Pompano Beach,2023,600.0
+10,Minneapolis-St. Paul-Bloomington,2021,379.9
+10,Minneapolis-St. Paul-Bloomington,2022,387.9
+10,Minneapolis-St. Paul-Bloomington,2023,374.0
+11,Nashville-Davidson--Murfreesboro--Franklin,2021,349.5
+11,Nashville-Davidson--Murfreesboro--Franklin,2022,403.7
+11,Nashville-Davidson--Murfreesboro--Franklin,2023,401.5
+12,Orlando-Kissimmee-Sanford,2021,434.0
+12,Orlando-Kissimmee-Sanford,2022,436.5
+12,Orlando-Kissimmee-Sanford,2023,442.0
+13,Phoenix-Mesa-Chandler,2021,459.6
+13,Phoenix-Mesa-Chandler,2022,467.2
+13,Phoenix-Mesa-Chandler,2023,466.5
+14,Portland-Vancouver-Hillsboro,2021,584.8
+14,Portland-Vancouver-Hillsboro,2022,593.4
+14,Portland-Vancouver-Hillsboro,2023,579.4
+15,Raleigh-Cary,2021,459.9
+15,Raleigh-Cary,2022,478.6
+15,Raleigh-Cary,2023,461.2
+16,St. Louis,2021,254.4
+16,St. Louis,2022,268.6
+16,St. Louis,2023,243.7
+17,San Antonio-New Braunfels,2021,326.8
+17,San Antonio-New Braunfels,2022,332.1
+17,San Antonio-New Braunfels,2023,315.7
+18,Seattle-Tacoma-Bellevue,2021,735.0
+18,Seattle-Tacoma-Bellevue,2022,744.3
+18,Seattle-Tacoma-Bellevue,2023,732.2
+19,Tampa-St. Petersburg-Clearwater,2021,405.0
+19,Tampa-St. Petersburg-Clearwater,2022,415.0
+19,Tampa-St. Petersburg-Clearwater,2023,410.0
